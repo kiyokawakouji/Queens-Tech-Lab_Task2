@@ -1,6 +1,7 @@
 # queens_tech_lab_task2
 
-A new Flutter application.
+課題2
+ - ListViewを作ってみよう
 
 ## Getting Started
 
